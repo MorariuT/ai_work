@@ -1,0 +1,1 @@
+This is the link with data: https://ioai-official.org/wp-content/uploads/2025/06/2025-IOAI-Team-Challenge-Factory-of-the-Future-Grand-Challenge.pdf
