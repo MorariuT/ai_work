@@ -1,6 +1,5 @@
 .venv*/
 .kaggle/
-*.zip
 *.csv
 data/*
 *.pth
@@ -87,3 +86,12 @@ Practice/12.06.2026/Natinoal Poland Selection Contest/riddles/catboost_info
 Practice/12.06.2026/Natinoal Poland Selection Contest/riddles/data
 
 Practice
+Competitions/AI Georgian League II/Pb2/custom_archive/custom_archive.zip
+Competitions/AI Georgian League II/Pb2/custom_archive/test_data.zip
+Competitions/AI Georgian League II/Pb2/custom_archive/train_data.zip
+Competitions/NEOAI 2026/Terminal Animals/neoai-2026-qualification-terminal-animals-homework.zip
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/Funtime Beach/test_data(2).zip
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/custom_archive(1).zip
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/test_data(1).zip
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/train_data(1).zip
+Competitions/ROAI/ROAI Selection Camp - CPU Practical Round/Polyglot/train_data(2).zip
