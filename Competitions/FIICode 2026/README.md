@@ -1,0 +1,1 @@
+The data from kaggle is hidden, so I put it in the `fii-code-2026-final-competition.zip` file.

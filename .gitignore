@@ -1,0 +1,89 @@
+.venv*/
+.kaggle/
+*.zip
+*.csv
+data/*
+*.pth
+*.png
+*.jpg
+.DS_Store
+
+Competitions/AI Georgian League II/Pb2/custom_archive/test/*
+Competitions/AI Georgian League II/Pb2/custom_archive/train_data/class_mapping.json
+Competitions/AI Georgian League II/Pb2/custom_archive/train_data/*
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/train_data/*
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/valid_data/*
+
+Competitions/EUROAI (CEOAI) 2026 - Practice Round 2/Pb1/test_data.npz
+Competitions/EUROAI (CEOAI) 2026 - Practice Round 2/Pb1/submission2.zip
+Competitions/EUROAI (CEOAI) 2026 - Practice Round 2/Pb1/submission.csv
+Competitions/EUROAI (CEOAI) 2026 - Practice Round 2/Pb1/train_data.zip
+
+Competitions/FIICode 2026/catboost_info
+Competitions/FIICode 2026/ans.csv
+Competitions/FIICode 2026/ans1.csv
+Competitions/FIICode 2026/ans2.csv
+Competitions/FIICode 2026/submission.csv
+Competitions/FIICode 2026/submission1.csv
+Competitions/FIICode 2026/test.csv
+Competitions/FIICode 2026/train.csv
+
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/nitro-lang-processing-1.zip
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/sample_submission.csv
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/tag_to_id.json
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/teams_rand_seed.csv
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/test.json
+Competitions/Kaggle/Nitro Language Processing - 1st Edition - NER/train.json
+
+Competitions/ONIA/Lot - Proba 1 - Olimpiada Națională de Inteligență Artificială 2026/Vânătorul de Glitch-uri 2: G3P1T Reloaded/test
+Competitions/ONIA/Lot - Proba 1 - Olimpiada Națională de Inteligență Artificială 2026/Vânătorul de Glitch-uri 2: G3P1T Reloaded/test/images
+Competitions/ONIA/Lot - Proba 1 - Olimpiada Națională de Inteligență Artificială 2026/Vânătorul de Glitch-uri 2: G3P1T Reloaded/train
+
+Competitions/ONIA/Lot - Proba 1 - Olimpiada Națională de Inteligență Artificială 2026/Video Shazam/dataset
+
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/catboost_info
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/test
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/train
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/vit-base-beans
+Competitions/ROAI/ROAI Pre-Selection Camp Contest/The Botanical Breach/vit-base-patch16-224-in21k-3class
+
+Competitions/ROAI/ROAI Selection Camp - CPU Practical Round/Polyglot/embeddings.npy
+Competitions/ROAI/ROAI Selection Camp - CPU Practical Round/Polyglot/subtask1.npy
+Competitions/ROAI/ROAI Selection Camp - CPU Practical Round/Polyglot/subtask2.npy
+Competitions/ROAI/ROAI Selection Camp - CPU Practical Round/Polyglot/__MACOSX
+
+Competitions/ROAI/ROAI Selection Camp - GPU Practical Round/Corrupt Decoder/__MACOSX
+Competitions/ROAI/ROAI Selection Camp - GPU Practical Round/Corrupt Decoder/problem_data
+Competitions/ROAI/ROAI Selection Camp - GPU Practical Round/Corrupt Decoder/starter_kit
+
+Computer VIsion/AE MNIST Fashion/data
+
+Computer VIsion/Diffusion MNIST Fashion/data
+
+Computer VIsion/VAE MNIST Fashion/data/FashionMNIST
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/adversarial_attacks/data
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/color_quantization/train_data
+Practice/12.06.2026/Natinoal Poland Selection Contest/color_quantization/valid_data
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/dependency_parsing/train.conll
+Practice/12.06.2026/Natinoal Poland Selection Contest/dependency_parsing/valid.conll
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/imbalanced_classification/train_data
+Practice/12.06.2026/Natinoal Poland Selection Contest/imbalanced_classification/valid_data
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/example_data 
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/train_data 
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/example_tracks 
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/utils 
+Practice/12.06.2026/Natinoal Poland Selection Contest/object_tracking/valid_data
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/pruning/train_data
+Practice/12.06.2026/Natinoal Poland Selection Contest/pruning/valid_data
+
+Practice/12.06.2026/Natinoal Poland Selection Contest/riddles/catboost_info 
+Practice/12.06.2026/Natinoal Poland Selection Contest/riddles/data
+
+Practice

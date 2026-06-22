@@ -1,0 +1,1 @@
+https://judge.nitro-ai.org/competitions/ceoai/ceoai-2026-practice-2
